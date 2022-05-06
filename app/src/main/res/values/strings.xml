@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GmailLikeAppUsingRecyclerView</string>
+    <string name="sender">Facebook</string>
+    <string name="global_warming">Global warming increasing day by day</string>
+    <string name="time">10:40 AM</string>
+    <string name="email_list">Email listing screen</string>
+    <string name="chatting_list">Chatting list screen</string>
+    <string name="grid_list">Grid design</string>
+    <string name="hey">Hey how are you?</string>
+    <string name="delete">Delete</string>
+    <string name="confirm_delete">Are you sure to delete?</string>
+</resources>
